@@ -5,7 +5,7 @@
  Analysis of school district data to help the school board make strategic decisions regarding future school budgets and priorities.  
    
  ## Files  
- - PyCitySchools_YourName.ipynb: Main analysis notebook  
+ - PyCitySchools_Megan_Neal.ipynb: Main analysis notebook  
  - Resources/: Contains source data files  
    - schools_complete.csv: School data  
    - students_complete.csv: Student data  
